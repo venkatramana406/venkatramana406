@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkatramana406
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning core java
-- 💞️ I’m looking to collaborate on java development
+- 🌱 I’m completed core java and mysql
+- 💞️ I’m looking to collaborate on java development/software development.
 - 📫 To reach me via email->iamvenkatramana434@gmail.com
 
 <!---
