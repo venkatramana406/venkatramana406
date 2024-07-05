@@ -15,7 +15,5 @@ What I Bring to the Table:
 
 🛠️ Version Control with Git: Well-versed in Git, I utilize version control best practices to collaborate effectively with team members and manage project codebases with confidence.
 
-https://github.com/venkatramana406/venkatramana406/assets/127858791/d5365de3-4c15-4387-bcd7-76e6f275d257)
-
 Let's Connect:
 📫 I'm always open to exciting opportunities and collaborations! Whether you're looking for a passionate developer to join your team, feel free to reach out to me at iamvenkatramana434@gmail.com Let's build something amazing together!
