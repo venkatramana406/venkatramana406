@@ -14,7 +14,7 @@ What I Bring to the Table:
 📱 Flutter: Proficient in Flutter, I develop cross-platform mobile applications that offer a native-like experience on both iOS and Android devices, leveraging the power of a single codebase.
 
 🛠️ Version Control with Git: Well-versed in Git, I utilize version control best practices to collaborate effectively with team members and manage project codebases with confidence.
-!![image]([fronted_icons](https://github.com/venkatramana406/venkatramana406/assets/127858791/d72e70ff-8f5c-4c72-a529-32479a9d30f8))
+!![image]((https://github.com/venkatramana406/venkatramana406/assets/127858791/d72e70ff-8f5c-4c72-a529-32479a9d30f8))
 ![java_icon](https://github.com/venkatramana406/venkatramana406/assets/127858791/17da38c3-69e3-472f-9359-400020d52954)
 ![go_icon](https://github.com/venkatramana406/venkatramana406/assets/127858791/db21ed8b-e25b-4c79-a401-9e91417c6cae)
 ![flutter_icon](https://github.com/venkatramana406/venkatramana406/assets/127858791/535bc92e-e9dd-4ef5-975e-95647a6c58cc)
