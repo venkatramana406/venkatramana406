@@ -1,4 +1,4 @@
-I'm Venkatramana, a dedicated full-stack developer with a passion for crafting seamless and intuitive solutions across a variety of technologies. With four months of hands-on experience in the field, I specialize in building robust web and mobile applications, proficient in HTML, CSS, JavaScript, Vue.js, Java, Go (Golang), MySQL, Flutter, and Git.
+I'm Venkatramana, a dedicated full-stack developer with a passion for crafting seamless and intuitive solutions across a variety of technologies. With one year of hands-on experience in the field, I specialize in building robust web applications, proficient in HTML, CSS, JavaScript, Vue.js, Java, Go (Golang), MySQL and Git.
 
 What I Bring to the Table:
 🚀 Full-Stack Expertise: Equipped with skills spanning both frontend and backend development, I bring a holistic approach to every project, ensuring a seamless user experience from start to finish.
@@ -10,8 +10,6 @@ What I Bring to the Table:
 ☕ Java & Golang : Experienced in both Java and Go (Golang), I develop scalable and efficient backend solutions that power the core functionality of web and mobile applications, ensuring optimal performance and reliability.
 
 📊 Data Management: Skilled in database management with MySQL, I design and implement robust database architectures to efficiently store and retrieve data, ensuring seamless data management and scalability.
-
-📱 Flutter: Proficient in Flutter, I develop cross-platform mobile applications that offer a native-like experience on both iOS and Android devices, leveraging the power of a single codebase.
 
 🛠️ Version Control with Git: Well-versed in Git, I utilize version control best practices to collaborate effectively with team members and manage project codebases with confidence.
 
